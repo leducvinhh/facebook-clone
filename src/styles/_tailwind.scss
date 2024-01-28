@@ -7,6 +7,6 @@
     @apply w-full rounded-sm border border-gray-300 bg-[#f5f6f7] p-2 outline-none;
   }
   .input-field {
-    @apply w-full rounded-md border border-slate-300 px-4 py-3 text-[17px] outline-none focus:border-[#1b74e4] focus:shadow-md focus:shadow-[#e7f3ff]
+    @apply w-full rounded-md border px-4 py-3 text-[17px] outline-none focus:shadow-md focus:shadow-[#e7f3ff]
   }
 }

@@ -1,0 +1,32 @@
+{
+  "translations": {
+    "AUTH": {
+      "description": "Facebook helps you connect and share with the people in your life.",
+      "placerholderEmail": "Email address or phone number",
+      "placeholderPassword": "Password",
+      "forgottenPassword": "Forgotten password?",
+      "buttonCreateAccount": "Create new account",
+      "buttonLogin": "Log in",
+      "register": "Sign Up",
+      "descriptionRegister": "It's quick and easy.",
+      "placeholderName": "First name",
+      "placeholderSurname": "Surname",
+      "newPassword": "New password",
+      "dayOfBirth": "Day of birth",
+      "gender": "Gender",
+      "female": "Female",
+      "male": "Male",
+      "custom": "Custom",
+      "terms": "People who use our service may have uploaded your contact information to Facebook. <a href='https://www.facebook.com/help/637205020878504' target='_blank' class='text-[#385898] hover:underline'>Learn more.</a>",
+      "policy": "By clicking Sign Up, you agree to our <a href='https://www.facebook.com/legal/terms/update' target='_blank' class='text-[#385898] hover:underline'>Terms</a>, <a href='https://www.facebook.com/about/privacy/update' target='_blank' class='text-[#385898] hover:underline'>Data Policy</a> and <a href='https://www.facebook.com/policies/cookies/' target='_blank' class='text-[#385898] hover:underline'>Cookies Policy</a>. You may receive SMS notifications from us and can opt out at any time.",
+      "pronoun": "Select your pronoun",
+      "pronoun1": "She: \"Wish her a happy birthday!\"",
+      "pronoun2": "He: \"Wish him a happy birthday!\"",
+      "pronoun3": "They: \"Wish them a happy birthday!\"",
+      "pronounDescription": "Your pronoun is visible to everyone.",
+      "pronounPlaceholder": "Gender (optional)",
+      "invalidEmail": "Invalid email address",
+      "requiredEmail": "Email address is required"
+    }
+  }
+}

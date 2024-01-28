@@ -14,9 +14,7 @@ export default function IModal({ open, onClose, children }: IModalProps) {
         hidden: !open,
         'flex items-center justify-center': open
       })}
-      onClick={() => {
-        onClose()
-      }}
+      onClick={onClose}
     >
       {children}
     </div>,
